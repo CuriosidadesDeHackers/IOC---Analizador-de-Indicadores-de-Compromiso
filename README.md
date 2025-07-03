@@ -66,6 +66,13 @@ IOC/
 └── README.md            # Este archivo
 ```
 
+![1](https://github.com/user-attachments/assets/60faa970-989d-4ea7-97c9-18c62d9eccf4)
+![2](https://github.com/user-attachments/assets/be64d08a-4214-4f38-ac4f-ab55d566b968)
+![3](https://github.com/user-attachments/assets/3c36f15c-71c0-4c84-b40c-865ba934a2b0)
+![4](https://github.com/user-attachments/assets/e75e9016-dacd-465e-ace9-cc64249f018b)
+
+
+
 ## 📬 Contacto
 
 Si deseas colaborar o tienes dudas, no dudes en contactarme.
